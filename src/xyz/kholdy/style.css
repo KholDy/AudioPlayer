@@ -1,0 +1,12 @@
+.linear-grad-to-bottom{
+  -fx-background-color: linear-gradient(to bottom, #000000, #684677);
+}
+
+.linear-grad-to-bottom-2{
+  -fx-background-color: linear-gradient(to bottom, #684677, #000000);
+}
+
+.list-cell{
+	-fx-background-color: transparent;
+	-fx-text-fill: #254461;
+}
